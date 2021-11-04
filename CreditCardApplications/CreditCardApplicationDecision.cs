@@ -1,7 +1,5 @@
-﻿namespace CreditCardApplications
-{
-    public enum CreditCardApplicationDecision
-    {
+﻿namespace CreditCardApplications {
+    public enum CreditCardApplicationDecision {
         Unknown,
         AutoAccepted,
         AutoDeclined,
